@@ -1,0 +1,11 @@
+First your question was how I will approach this testing.
+First of all I would create a test strategy for this project, and answer a few basic questions. What is the scope of this testing, who will review the document?
+Who will approve this document? What are the roles and responsibilities of each team member. What types of Testing ( Load testing, Security testing, Performance testing etc.) will i use etc.
+What is critical to work on this app for my opinion would be search field, to ensure that "filter" button is working well, which means that if i press "filter" button i will be landed on the searched result.Then if i click on any single picture does the app provide me that picture in new outlook with better view.
+Also i will test if the results of one author match the real pictures that he has in this app. Let's say that will be the first thing that I will test in some smoke testing. If we are talking about sanity testing i would check some less critical functions and their behavior.
+I also wanna highlight that the code i wrote is some basic stuff that i will check on the first look on the site.
+If I have some real projects I will have JIRA tool with tickets and the easiest way to track and do the testing step by step. 
+Again when it comes to testing this site i will start with checking if buttons and search fields are working and giving expected results.
+Then will check how the app works when i select one author, do i have expected results. 
+
+
